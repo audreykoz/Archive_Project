@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSST] DR Requirements for Raw Scientific Data (Requirement)"
+    id="c5bc11c8-dfb6-487a-898f-ddd6014feadf"
+    documentation="The system shall provide very low probability of data loss and the ability to assure the integrity of raw data placed in the archive. There should be no reliance on any single piece of media or any file system, likely implying there are multiple copies of the data. The project intends to keep all raw data on an active store, the active store can be a source of data to replace accidents in the DR system, provided the DR system is actively monitored for integrity. The DR system has protect against a geographically local disaster affecting both the active system and the DR system.&#xA;&#xA;The business continuity supported by the DR system would resume processing in a spatially-oriented fashion. Data that are on the sky together are restored together, i.e., the restoration of the raw data is not by time acquired, but by location on the celestial sphere."/>

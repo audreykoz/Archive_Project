@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSST] Requirements for non-DR Use for Scientific Data (Requirement)"
+    id="6d1b0ff8-c39c-4e47-9282-f9acd1eeb737"
+    documentation="The system shall provide the ability to restore from the archive occasional out-of-band deletes and/or files that become corrupted for some reason."/>

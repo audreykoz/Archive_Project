@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSST] DR Requirements for File Systems (Requirement)"
+    id="d03d2467-010f-465a-bca1-8235d64cc6f9"
+    documentation="Designated file systems are backed up as a file system (these file systems are backed up by snaps). These file systems may contain irreplaceable or hard-to-reproduce information not managed by source code control (e.g., database config files). A disaster scenario is the loss of a file system. These file systems are stored in the archive and must be recallable upon file system failure. There should be geographic separation of the file systems and the DR systems."/>
