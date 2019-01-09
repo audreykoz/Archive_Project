@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A General System (Requirement)"
+    id="83da77c1-1dde-4b57-8c61-88585f61bca0"
+    documentation="The archive shall be usable by many diverse systems&#xA;&#xA;The system is not strongly tied to any file system metadata, high level business cases, etc. &#xA;"/>

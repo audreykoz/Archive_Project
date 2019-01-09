@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The System Knows the Data Owners (Requirement)"
+    id="98899ca9-1158-4a2d-9423-d301005fc2ab"
+    documentation="The system shall posess the required metadata showing the data owner. "/>

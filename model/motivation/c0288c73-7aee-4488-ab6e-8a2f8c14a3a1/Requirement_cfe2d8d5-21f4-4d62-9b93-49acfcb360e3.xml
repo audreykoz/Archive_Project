@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhanced Support for Disaster Recovery Restores (Requirement)"
+    id="cfe2d8d5-21f4-4d62-9b93-49acfcb360e3"
+    documentation="The system shall support disaster recovery restore operations which exceed the normal operational bandwidth needed for all operations. "/>

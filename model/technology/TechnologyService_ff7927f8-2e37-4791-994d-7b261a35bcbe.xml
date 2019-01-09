@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patch Retrieve Service (Technology Service)"
+    id="ff7927f8-2e37-4791-994d-7b261a35bcbe"
+    documentation="Supports retrevial of files at a rate that is very slow compared to ingest for correcting minor problems.&#xA;&#xA;LSST has no need for the system supporting the bottom tier of the active store.  &#xA;&#xA;"/>

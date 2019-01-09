@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingest Service (Technology Service)"
+    id="0883172c-c736-4201-8683-da79380d413e"
+    documentation="A service that recieves data payloads and is able to write it into the store.  &#xA;&#xA;The data payloads held by the system contains relevent metadata needed for restores. &#xA;Hints enabling the system in order to decide where to place the files are passed to optimize the restore order. &#xA;The system is responsive to an authorization and identity management scheme. &#xA;TBD if the system needs to encrypt the data it stores. Not needed for LSST use case. &#xA;TBD if metadata is passed on ingest to the system in order to delete files after a certain period of time.&#xA;TBD there should be isolation for data owners. Additional work is to understand what flows down to make this requirement more definite.  &#xA;Metadata must be available to convey the data owner. At the LSST project, someone's accountable for the data.  &#xA;&#xA;"/>

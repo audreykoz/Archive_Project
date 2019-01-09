@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Lifetime (Requirement)"
+    id="bcc99511-b17f-4793-a37c-96743e54edcb"
+    documentation="The system shall have a lifetime that supports the lifetime of LSST"/>

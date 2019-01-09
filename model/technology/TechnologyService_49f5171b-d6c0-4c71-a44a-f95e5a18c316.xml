@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bulk Retrieve Service (Technology Service)"
+    id="49f5171b-d6c0-4c71-a44a-f95e5a18c316"
+    documentation="Support for very large at scale retrieval of data typical of a large disaster scenario. &#xA;&#xA;Could include special temporary provisioning for increased restore bandwidths. This would take several working days and might involve special provisioning arrangements."/>

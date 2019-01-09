@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purge Service (Technology Service)"
+    id="ce6fc1ed-3534-445b-9e91-7addebfb2ece"
+    documentation="Provides the ability for authorized person to remove data from the store.  &#xA;&#xA;Consider whether the system has controls to prevent accidental deletes. "/>

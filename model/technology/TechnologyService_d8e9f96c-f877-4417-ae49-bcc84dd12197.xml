@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring and Reporting Service (Technology Service)"
+    id="d8e9f96c-f877-4417-ae49-bcc84dd12197"
+    documentation="Monitors and reports on the activity related to a class of saved data. This includes the recent activity related to the data and any information on data integrity. "/>
